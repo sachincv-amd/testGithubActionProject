@@ -1,0 +1,9 @@
+
+
+============================== 2022-08-24 21:37:40.115869 | b145d659-9c6e-4595-a494-3f5714c8a159 ==============================
+21:37:40.115869 [info ] [MainThread]: Running with dbt=1.1.0
+21:37:40.116868 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\schembuv\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'githubActionProject', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+21:37:40.116868 [debug] [MainThread]: Tracking: tracking
+21:37:40.804391 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C6B4BAF040>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C6B4BAFDC0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C6B4BAF4C0>]}
+21:37:40.807570 [debug] [MainThread]: Starter project path: c:\users\schembuv\dbt-env\lib\site-packages\dbt\include\starter_project
+21:38:15.668774 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C6B4BBB8B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C6B4BBB9A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C6B5994D60>]}
